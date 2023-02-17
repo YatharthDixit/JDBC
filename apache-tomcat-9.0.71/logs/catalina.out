@@ -1,0 +1,48 @@
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2023 10:07:58.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.71
+15-Feb-2023 10:07:58.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 9 2023 22:33:01 UTC
+15-Feb-2023 10:07:58.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.71.0
+15-Feb-2023 10:07:58.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+15-Feb-2023 10:07:58.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            13.2
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19+36-2238
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71
+15-Feb-2023 10:07:58.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71
+15-Feb-2023 10:07:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Feb-2023 10:07:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Feb-2023 10:07:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Feb-2023 10:07:58.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/conf/logging.properties
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71
+15-Feb-2023 10:07:58.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/temp
+15-Feb-2023 10:07:58.972 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/yatharthdixit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+15-Feb-2023 10:07:59.237 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Feb-2023 10:07:59.282 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [510] milliseconds
+15-Feb-2023 10:07:59.305 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Feb-2023 10:07:59.305 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.71]
+15-Feb-2023 10:07:59.309 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/docs]
+15-Feb-2023 10:07:59.480 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/docs] has finished in [171] ms
+15-Feb-2023 10:07:59.480 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/manager]
+15-Feb-2023 10:07:59.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/manager] has finished in [25] ms
+15-Feb-2023 10:07:59.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/examples]
+15-Feb-2023 10:07:59.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/examples] has finished in [164] ms
+15-Feb-2023 10:07:59.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/ROOT]
+15-Feb-2023 10:07:59.680 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/ROOT] has finished in [11] ms
+15-Feb-2023 10:07:59.681 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/host-manager]
+15-Feb-2023 10:07:59.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/yatharthdixit/Programming/eclipse/apache-tomcat-9.0.71/webapps/host-manager] has finished in [13] ms
+15-Feb-2023 10:07:59.696 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Feb-2023 10:07:59.704 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [421] milliseconds
+15-Feb-2023 10:15:34.881 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+15-Feb-2023 10:15:34.882 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Feb-2023 10:15:34.886 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Feb-2023 10:15:34.905 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Feb-2023 10:15:34.911 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
